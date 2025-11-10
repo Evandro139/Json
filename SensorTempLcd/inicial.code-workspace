@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../inicial"
+		},
+		{
+			"name": "Strings e char",
+			"path": "../Strings e char"
+		},
+		{
+			"name": "BlueTooth",
+			"path": "../BlueTooth"
+		},
+		{
+			"name": "SensorTempLcd",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
