@@ -94,7 +94,7 @@ void loop() {
     lcd.setCursor(0,1);
     lcd.print(fahrenheit);
     lcd.print("F");
-    lcd.setCursor(0, 3);
+    lcd.setCursor(0, 2);
     lcd.print("Umid: ");
     lcd.print(umidade);
     lcd.print("%");
